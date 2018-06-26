@@ -1,2 +1,2 @@
 # JS-Bootcamp-Notes
-My notes for Colt Steele bootcamp
+My notes from bootcamp
